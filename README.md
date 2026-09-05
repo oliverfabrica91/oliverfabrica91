@@ -1,8 +1,8 @@
 r
 # 🃏 Oliver
 
-<p align="center">
-![GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3h6NTRoYjNtOXdrOWs0NWU1ZTZsbTk1OXRlY3UyeWJqajFlamZ4ZCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/C7cCbARpgIiIwMEFyo/giphy.gif)
+
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2wxdXEzZ2VqdXdjbTVrc3Z4OXJrZ3hoc2JrMjZ6ODJkd3Iza3FzMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ryPh6WlecLKyJi3F0o/giphy.gif" width="500"> </p>
 <h2 align="center">
   "Everything starts with a decision."
 </h2>
