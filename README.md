@@ -16,11 +16,11 @@ r
 
 ## 🃏 About Me
 
-meu sonho é ter uma bicicleta de rodinha
+I don't owe you anything.
 
 God
 
-> fá numero 1 de mim mesmo
+> 
 
 ---
 
