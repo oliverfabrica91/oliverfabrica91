@@ -1,43 +1,32 @@
-## # 🃏 Oliver
-
-> **"Everything starts with a decision."**
-
----
+r
+# 🃏 Oliver
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/9/98/Joker_(DC_Comics).png" width="300px">
+  <img src="./img/coringa.jpg" width="400">
 </p>
+
+<h2 align="center">
+  "Everything starts with a decision."
+</h2>
+
+---
 
 ## 🃏 About Me
 
-Olá! Eu sou **Oliver**, um aluno apaixonado por tecnologia, programação e novos desafios.
+Olá, eu sou **Oliver**.
 
-Estou sempre aprendendo, experimentando e buscando evoluir.
+Um aluno aprendendo, criando e evoluindo através da programação.
 
-### 🎯 Objetivo
-
-> **"Everything starts with a decision."**
-
-Cada caminho começa com uma escolha.  
-A minha escolha foi começar. 🃏
+> **Everything starts with a decision.**
 
 ---
 
 <p align="center">
-
-**WHY SO SERIOUS?**
-
+  🃏 <strong>WHY SO SERIOUS?</strong> 🃏
 </p>
 
----
 
-### 💻 Skills
 
-```text
-Programming   ███████░░░ 70%
-Creativity    █████████░ 90%
-Learning      ██████████ 100%
-Chaos         ██████████ 100%
 
 
 <!--
