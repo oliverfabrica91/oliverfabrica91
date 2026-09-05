@@ -2,9 +2,7 @@ r
 # 🃏 Oliver
 
 <p align="center">
-  <img src="./img/coringa.jpg" width="400">
-</p>
-
+![GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3h6NTRoYjNtOXdrOWs0NWU1ZTZsbTk1OXRlY3UyeWJqajFlamZ4ZCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/C7cCbARpgIiIwMEFyo/giphy.gif)
 <h2 align="center">
   "Everything starts with a decision."
 </h2>
@@ -24,7 +22,7 @@ God
 <p align="center">
   🃏 <strong>WHY SO SERIOUS?</strong> 🃏
 </p>
-![GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3h6NTRoYjNtOXdrOWs0NWU1ZTZsbTk1OXRlY3UyeWJqajFlamZ4ZCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/C7cCbARpgIiIwMEFyo/giphy.gif)
+
 
 
 
