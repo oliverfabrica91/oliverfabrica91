@@ -1,7 +1,7 @@
 r
 # 🃏 Oliver
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NW1mYnRjaW03YWtsdHJucmR5bjFmc3B6NzE0aTI5YWd3cGZkdTAzMSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/Q5bEJQgv4kheOhlMXs/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmoxeGwxZnl5MW5ha3dqNW1oYmZiajA0bDdkMjByYTRreWdza200aiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/E8gZWKFe0bEDLAnBiQ/giphy.gif" alt="GIF" width="500">
 </p>
 
 
@@ -9,7 +9,7 @@ r
 
 
 <h2 align="center">
-  "Everything starts with a decision."
+  "all win."
 </h2>
 
 ---
