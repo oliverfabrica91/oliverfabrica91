@@ -15,7 +15,7 @@ r
 
 Olá, eu sou **Oliver**.
 
-Um aluno aprendendo, criando e evoluindo através da programação.
+God
 
 > **Everything starts with a decision.**
 
